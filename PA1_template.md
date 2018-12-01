@@ -499,7 +499,7 @@ print(xt, type="html")
 ```
 
 <!-- html table generated in R 3.5.1 by xtable 1.8-3 package -->
-<!-- Sat Dec  1 17:48:02 2018 -->
+<!-- Sat Dec  1 17:49:16 2018 -->
 <table border=1>
 <tr> <th>  </th> <th> Mean </th> <th> Median </th>  </tr>
   <tr> <td align="right"> Original Data </td> <td align="right"> 10766.19 </td> <td align="right"> 10765.00 </td> </tr>
